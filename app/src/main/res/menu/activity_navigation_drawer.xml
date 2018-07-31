@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/order"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@android:drawable/stat_sys_phone_call_forward"
+            android:title="Contact Info" />
+
+        <item
+            android:id="@+id/rate"
+            android:icon="@android:drawable/btn_star"
+            android:title="Rate us" />
+        <item
+            android:id="@+id/delivery"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Delivery Status" />
+    </group>
+
+
+
+</menu>

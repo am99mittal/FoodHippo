@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.am99m.foodhippo.Delivery">
+    <TextView
+        android:id="@+id/hey"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You Have Not Order Anything Yet."
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"/>
+    <TextView
+        android:id="@+id/mobile1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="51dp"/>
+    <TextView
+        android:id="@+id/order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="90dp"/>
+    <TextView
+        android:id="@+id/items1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="135dp"
+        android:layout_marginTop="90dp"/>
+    <TextView
+        android:id="@+id/delivery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="130dp"/>
+    <TextView
+        android:id="@+id/address1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="130dp"/>
+    <TextView
+        android:id="@+id/reach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="250dp"/>
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="remove"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#0000FF"
+        android:textColor="#FFFFFF"/>
+
+
+
+
+</RelativeLayout>

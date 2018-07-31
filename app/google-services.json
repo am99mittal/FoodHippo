@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "429020478107",
+    "firebase_url": "https://first-7f6ed.firebaseio.com",
+    "project_id": "first-7f6ed",
+    "storage_bucket": "first-7f6ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429020478107:android:df30c1333be8158e",
+        "android_client_info": {
+          "package_name": "com.example.akshitmittal.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429020478107-9m1m7helhn4tr717oj2vsmcvlquv99r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshitmittal.myapplication",
+            "certificate_hash": "3fb4ce69fdfdf52d7a479d63bff38265a9c22d76"
+          }
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu9afYMsuAQre6sM7ozIWmgsD1FG5Oes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429020478107:android:cd62c004b2bd9299",
+        "android_client_info": {
+          "package_name": "com.example.akshitmittal.product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429020478107-vnf6v1mpsl6qe2lqlmf63ckuv2oem7vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akshitmittal.product",
+            "certificate_hash": "3fb4ce69fdfdf52d7a479d63bff38265a9c22d76"
+          }
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu9afYMsuAQre6sM7ozIWmgsD1FG5Oes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429020478107:android:28281b79e6a3049e",
+        "android_client_info": {
+          "package_name": "com.example.am99m.foodhippo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429020478107-mp16gi668ncmifktvmpsdq50v486glj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.am99m.foodhippo",
+            "certificate_hash": "1b63703bb6d54b440f9f76f330aa670294e19493"
+          }
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu9afYMsuAQre6sM7ozIWmgsD1FG5Oes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429020478107:android:317d2e5ebff61317",
+        "android_client_info": {
+          "package_name": "com.example.am99m.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429020478107-90r56crtu585rrn56k17v413q4e1kfj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.am99m.myapplication",
+            "certificate_hash": "1b63703bb6d54b440f9f76f330aa670294e19493"
+          }
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu9afYMsuAQre6sM7ozIWmgsD1FG5Oes"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429020478107-vi3qfrunaai6ehaefel00ij03njnhlm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

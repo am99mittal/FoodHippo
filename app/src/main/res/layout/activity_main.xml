@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.am99m.foodhippo.MainActivity"
+    android:background="@mipmap/the">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HIPPO BRINGS YOU"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textSize="25dp"
+        android:textColor="#FF4000"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GREAT FOOD SUPER FAST"
+        android:layout_centerHorizontal="true"
+        android:textSize="25dp"
+        android:layout_marginTop="60dp"
+        android:textColor="#FF4000"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="And knows you'll love"
+        android:layout_centerHorizontal="true"
+        android:textSize="18dp"
+        android:layout_marginTop="100dp"
+        android:textColor="#0404B4"
+        android:fontFamily="monospace"/>
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="140dp"
+        android:layout_height="60dp"
+        android:text="login"
+        android:layout_marginBottom="13dp"
+        android:background="#0000FF"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/t2"
+        android:layout_alignStart="@+id/t2"
+        android:textColor="#FFFFFF"/>
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="140dp"
+        android:layout_height="60dp"
+        android:text="Register"
+        android:layout_marginLeft="165dp"
+        android:layout_marginBottom="13dp"
+        android:background="#0000FF"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/t2"
+        android:layout_alignStart="@+id/t2"
+        android:textColor="#FFFFFF"/>
+
+
+
+</RelativeLayout>

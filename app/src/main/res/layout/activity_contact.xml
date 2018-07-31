@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.am99m.foodhippo.Contact">
+   <TextView
+       android:id="@+id/t1"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="All comments, queries and requests relating to our use of your information are welcomed and should be addressed to:"
+       android:layout_marginLeft="10dp"
+       android:layout_marginRight="10dp"
+       android:layout_marginTop="30dp"
+       android:textSize="22dp"/>
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="customercare@foodhippo.in"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:textColor="#0000ff"/>
+
+</RelativeLayout>
